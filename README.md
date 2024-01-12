@@ -1,1 +1,1 @@
-# demo
+# this prject is about the web technologies 
